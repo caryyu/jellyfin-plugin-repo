@@ -11,7 +11,7 @@
         "checksum": "ffc65f7d72c230963297425c491ac5af",
         "changelog": "the init release",
         "targetAbi": "10.7.0.0",
-        "sourceUrl": "https://github.com/caryyu/jellyfin-plugin-repo/master/Jellyfin.Plugin.OpenDouban.1.0.1.zip",
+        "sourceUrl": "https://github.com/caryyu/jellyfin-plugin-repo/blob/master/Jellyfin.Plugin.OpenDouban.1.0.1.zip?raw=true",
         "timestamp": "2021-05-08T23:11:00Z",
         "version": "1.0.1"
       }
