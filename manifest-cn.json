@@ -22,6 +22,14 @@
         "sourceUrl": "https://gitee.com/caryyu/jellyfin-plugin-repo/raw/master/Jellyfin.Plugin.OpenDouban.1.0.2.zip",
         "timestamp": "2021-05-10T20:14:00Z",
         "version": "1.0.2"
+      },
+      {
+        "checksum": "d41d8cd98f00b204e9800998ecf8427e",
+        "changelog": "test",
+        "targetAbi": "10.7.0.0",
+        "sourceUrl": "https://gitee.com/caryyu/jellyfin-plugin-repo/raw/master/Jellyfin.Plugin.OpenDouban.1.0.3.zip",
+        "timestamp": "2021-05-12T13:38:39Z",
+        "version": "1.0.3"
       }
     ]
   }
