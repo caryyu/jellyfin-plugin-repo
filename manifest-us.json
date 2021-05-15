@@ -24,11 +24,11 @@
         "version": "1.0.2"
       },
       {
-        "checksum": "0b280950fee90b4074616de83f90f7c2",
-        "changelog": "release jellyfin-plugin-douban 1.0.3",
+        "checksum": "d41d8cd98f00b204e9800998ecf8427e",
+        "changelog": "cleanup & fix checksum",
         "targetAbi": "10.7.0.0",
         "sourceUrl": "https://github.com/caryyu/jellyfin-plugin-repo/blob/master/Jellyfin.Plugin.OpenDouban.1.0.3.zip?raw=true",
-        "timestamp": "2021-05-15T02:31:46Z",
+        "timestamp": "2021-05-15T02:44:21Z",
         "version": "1.0.3"
       }
     ]
