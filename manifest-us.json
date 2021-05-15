@@ -30,6 +30,14 @@
         "sourceUrl": "https://github.com/caryyu/jellyfin-plugin-repo/blob/master/Jellyfin.Plugin.OpenDouban.1.0.3.zip?raw=true",
         "timestamp": "2021-05-15T02:49:41Z",
         "version": "1.0.3"
+      },
+      {
+        "checksum": "95fce615cea9bff07694d96f24901dc0",
+        "changelog": "fix celebrities",
+        "targetAbi": "10.7.0.0",
+        "sourceUrl": "https://github.com/caryyu/jellyfin-plugin-repo/blob/master/Jellyfin.Plugin.OpenDouban.1.0.4.zip?raw=true",
+        "timestamp": "2021-05-15T14:03:08Z",
+        "version": "1.0.4"
       }
     ]
   }
