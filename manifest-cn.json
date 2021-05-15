@@ -25,10 +25,10 @@
       },
       {
         "checksum": "d41d8cd98f00b204e9800998ecf8427e",
-        "changelog": "fix checksum issue",
+        "changelog": "fix checksum by binary",
         "targetAbi": "10.7.0.0",
         "sourceUrl": "https://gitee.com/caryyu/jellyfin-plugin-repo/raw/master/Jellyfin.Plugin.OpenDouban.1.0.3.zip",
-        "timestamp": "2021-05-15T02:06:20Z",
+        "timestamp": "2021-05-15T02:18:04Z",
         "version": "1.0.3"
       }
     ]
