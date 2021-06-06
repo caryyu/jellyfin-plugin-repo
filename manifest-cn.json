@@ -38,6 +38,14 @@
         "sourceUrl": "https://gitee.com/caryyu/jellyfin-plugin-repo/raw/master/Jellyfin.Plugin.OpenDouban.1.0.4.zip",
         "timestamp": "2021-05-15T14:03:08Z",
         "version": "1.0.4"
+      },
+      {
+        "checksum": "7c0811b654dffe0dddf33a99f8c7b69f",
+        "changelog": "load more celebrities and stick imdb on it (#2)",
+        "targetAbi": "10.7.0.0",
+        "sourceUrl": "https://gitee.com/caryyu/jellyfin-plugin-repo/raw/master/Jellyfin.Plugin.OpenDouban.1.0.5.zip",
+        "timestamp": "2021-06-06T04:01:31Z",
+        "version": "1.0.5"
       }
     ]
   }
