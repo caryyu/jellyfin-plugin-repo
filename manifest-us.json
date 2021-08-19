@@ -62,6 +62,14 @@
         "sourceUrl": "https://github.com/caryyu/jellyfin-plugin-repo/blob/master/Jellyfin.Plugin.OpenDouban.1.0.7.zip?raw=true",
         "timestamp": "2021-07-02T14:14:46Z",
         "version": "1.0.7"
+      },
+      {
+        "checksum": "c6653fbc39e68e313643551a213606d2",
+        "changelog": "Re-adapt backdrop image (#8)",
+        "targetAbi": "10.7.0.0",
+        "sourceUrl": "https://github.com/caryyu/jellyfin-plugin-repo/blob/master/Jellyfin.Plugin.OpenDouban.1.0.8.zip?raw=true",
+        "timestamp": "2021-08-19T13:55:34Z",
+        "version": "1.0.8"
       }
     ]
   }
