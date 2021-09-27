@@ -11,7 +11,7 @@
         "checksum": "ffef0798b8285b9ac7610f38ab1bff16",
         "changelog": "the init release",
         "targetAbi": "10.7.0.0",
-        "sourceUrl": "https://github.com/caryyu/jellyfin-plugin-repo/blob/master/Jellyfin.Plugin.OpenDouban.1.0.1.zip?raw=true",
+        "sourceUrl": "https://github.com/caryyu/jellyfin-plugin-repo/raw/master/Jellyfin.Plugin.OpenDouban.1.0.1.zip",
         "timestamp": "2021-05-08T23:11:00Z",
         "version": "1.0.1"
       },
@@ -19,7 +19,7 @@
         "checksum": "7587b9e7cd1665877032d74c9bf8bfed",
         "changelog": "fix image and support backdrop",
         "targetAbi": "10.7.0.0",
-        "sourceUrl": "https://github.com/caryyu/jellyfin-plugin-repo/blob/master/Jellyfin.Plugin.OpenDouban.1.0.2.zip?raw=true",
+        "sourceUrl": "https://github.com/caryyu/jellyfin-plugin-repo/raw/master/Jellyfin.Plugin.OpenDouban.1.0.2.zip",
         "timestamp": "2021-05-10T20:14:00Z",
         "version": "1.0.2"
       },
@@ -27,7 +27,7 @@
         "checksum": "293d281e89d65dc1830b090f53d74dd4",
         "changelog": "fix checksum",
         "targetAbi": "10.7.0.0",
-        "sourceUrl": "https://github.com/caryyu/jellyfin-plugin-repo/blob/master/Jellyfin.Plugin.OpenDouban.1.0.3.zip?raw=true",
+        "sourceUrl": "https://github.com/caryyu/jellyfin-plugin-repo/raw/master/Jellyfin.Plugin.OpenDouban.1.0.3.zip",
         "timestamp": "2021-05-15T02:49:41Z",
         "version": "1.0.3"
       },
@@ -35,7 +35,7 @@
         "checksum": "95fce615cea9bff07694d96f24901dc0",
         "changelog": "fix celebrities",
         "targetAbi": "10.7.0.0",
-        "sourceUrl": "https://github.com/caryyu/jellyfin-plugin-repo/blob/master/Jellyfin.Plugin.OpenDouban.1.0.4.zip?raw=true",
+        "sourceUrl": "https://github.com/caryyu/jellyfin-plugin-repo/raw/master/Jellyfin.Plugin.OpenDouban.1.0.4.zip",
         "timestamp": "2021-05-15T14:03:08Z",
         "version": "1.0.4"
       },
@@ -43,7 +43,7 @@
         "checksum": "7c0811b654dffe0dddf33a99f8c7b69f",
         "changelog": "load more celebrities and stick imdb on it (#2)",
         "targetAbi": "10.7.0.0",
-        "sourceUrl": "https://github.com/caryyu/jellyfin-plugin-repo/blob/master/Jellyfin.Plugin.OpenDouban.1.0.5.zip?raw=true",
+        "sourceUrl": "https://github.com/caryyu/jellyfin-plugin-repo/raw/master/Jellyfin.Plugin.OpenDouban.1.0.5.zip",
         "timestamp": "2021-06-06T04:01:31Z",
         "version": "1.0.5"
       },
@@ -51,7 +51,7 @@
         "checksum": "37b5243a1847379b6d00fca9960102a3",
         "changelog": "filter media name by regex (#4)",
         "targetAbi": "10.7.0.0",
-        "sourceUrl": "https://github.com/caryyu/jellyfin-plugin-repo/blob/master/Jellyfin.Plugin.OpenDouban.1.0.6.zip?raw=true",
+        "sourceUrl": "https://github.com/caryyu/jellyfin-plugin-repo/raw/master/Jellyfin.Plugin.OpenDouban.1.0.6.zip",
         "timestamp": "2021-06-25T13:50:54Z",
         "version": "1.0.6"
       },
@@ -59,7 +59,7 @@
         "checksum": "d55b322112895f548f38bf5163b4a985",
         "changelog": "restructure the whole project (#5)",
         "targetAbi": "10.7.0.0",
-        "sourceUrl": "https://github.com/caryyu/jellyfin-plugin-repo/blob/master/Jellyfin.Plugin.OpenDouban.1.0.7.zip?raw=true",
+        "sourceUrl": "https://github.com/caryyu/jellyfin-plugin-repo/raw/master/Jellyfin.Plugin.OpenDouban.1.0.7.zip",
         "timestamp": "2021-07-02T14:14:46Z",
         "version": "1.0.7"
       },
@@ -67,7 +67,7 @@
         "checksum": "c6653fbc39e68e313643551a213606d2",
         "changelog": "Re-adapt backdrop image (#8)",
         "targetAbi": "10.7.0.0",
-        "sourceUrl": "https://github.com/caryyu/jellyfin-plugin-repo/blob/master/Jellyfin.Plugin.OpenDouban.1.0.8.zip?raw=true",
+        "sourceUrl": "https://github.com/caryyu/jellyfin-plugin-repo/raw/master/Jellyfin.Plugin.OpenDouban.1.0.8.zip",
         "timestamp": "2021-08-19T13:55:34Z",
         "version": "1.0.8"
       },
@@ -75,7 +75,7 @@
         "checksum": "c9da1db799089236ccd153ee7efb1dc4",
         "changelog": "Fix version compatibility (#9)",
         "targetAbi": "10.7.0.0",
-        "sourceUrl": "https://github.com/caryyu/jellyfin-plugin-repo/blob/master/Jellyfin.Plugin.OpenDouban.1.0.9.zip?raw=true",
+        "sourceUrl": "https://github.com/caryyu/jellyfin-plugin-repo/raw/master/Jellyfin.Plugin.OpenDouban.1.0.9.zip",
         "timestamp": "2021-08-21T09:32:08Z",
         "version": "1.0.9"
       }
