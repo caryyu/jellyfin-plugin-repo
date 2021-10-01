@@ -78,6 +78,14 @@
         "sourceUrl": "https://github.com/caryyu/jellyfin-plugin-repo/raw/master/Jellyfin.Plugin.OpenDouban.1.0.9.zip",
         "timestamp": "2021-08-21T09:32:08Z",
         "version": "1.0.9"
+      },
+      {
+        "checksum": "900c6d54161c208c3a35845a0f4232c6",
+        "changelog": "Fix metadata of Shows (#13)",
+        "targetAbi": "10.7.0.0",
+        "sourceUrl": "https://github.com/caryyu/jellyfin-plugin-repo/raw/master/Jellyfin.Plugin.OpenDouban.1.0.10.zip",
+        "timestamp": "2021-10-01T15:16:18Z",
+        "version": "1.0.10"
       }
     ]
   }
