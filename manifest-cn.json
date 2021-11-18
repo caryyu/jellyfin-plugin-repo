@@ -119,7 +119,7 @@
         "changelog": "the first release",
         "targetAbi": "10.7.0.0",
         "sourceUrl": "https://gitee.com/caryyu/jellyfin-plugin-repo/raw/master/Jellyfin.Plugin.MaxSubtitle.0.0.1.zip",
-        "timestamp": "2021-011-18T23:11:00Z",
+        "timestamp": "2021-11-18T23:11:00Z",
         "version": "0.0.1"
       }
     ]
