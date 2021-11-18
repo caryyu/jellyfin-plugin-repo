@@ -105,5 +105,23 @@
         "version": "1.0.12"
       }
     ]
+  },
+  {
+    "category": "Metadata",
+    "guid": "4EAEDA51-B4CF-45F8-99B3-EB2B1F6D3A53",
+    "name": "MaxSubtitle",
+    "description": "Download subtitles from Internet",
+    "owner": "caryyu",
+    "overview": "Get your Movie/TV subtitles from Internet",
+    "versions": [
+      {
+        "checksum": "af05043cdfddb8b0ebcf43a3fe2324d2",
+        "changelog": "the first release",
+        "targetAbi": "10.7.0.0",
+        "sourceUrl": "https://github.com/caryyu/jellyfin-plugin-repo/raw/master/Jellyfin.Plugin.MaxSubtitle.0.0.1.zip",
+        "timestamp": "2021-011-18T23:11:00Z",
+        "version": "0.0.1"
+      }
+    ]
   }
 ]
