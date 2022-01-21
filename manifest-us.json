@@ -111,6 +111,14 @@
         "sourceUrl": "https://github.com/caryyu/jellyfin-plugin-repo/raw/master/Jellyfin.Plugin.OpenDouban.2.0.1.zip",
         "timestamp": "2022-01-07T13:31:32Z",
         "version": "2.0.1"
+      },
+      {
+        "checksum": "0687f16ab2bca7b3ed1364e0df669f77",
+        "changelog": "Fix CancellationToken bypass (#21)",
+        "targetAbi": "10.7.0.0",
+        "sourceUrl": "https://github.com/caryyu/jellyfin-plugin-repo/raw/master/Jellyfin.Plugin.OpenDouban.1.0.13.zip",
+        "timestamp": "2022-01-21T12:55:38Z",
+        "version": "1.0.13"
       }
     ]
   },
