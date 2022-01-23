@@ -161,6 +161,14 @@
         "sourceUrl": "https://gitee.com/caryyu/jellyfin-plugin-repo/raw/master/Jellyfin.Plugin.MaxSubtitle.0.0.3.zip",
         "timestamp": "2022-01-23T12:17:02Z",
         "version": "0.0.3"
+      },
+      {
+        "checksum": "fd76c508fa0cbcb54a1adb0c78086015",
+        "changelog": "Fix 10.8.0 compatibility",
+        "targetAbi": "10.8.0.0",
+        "sourceUrl": "https://gitee.com/caryyu/jellyfin-plugin-repo/raw/master/Jellyfin.Plugin.MaxSubtitle.2.0.0.zip",
+        "timestamp": "2022-01-23T13:35:50Z",
+        "version": "2.0.0"
       }
     ]
   }
