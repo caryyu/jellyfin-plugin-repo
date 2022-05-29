@@ -135,6 +135,14 @@
         "sourceUrl": "https://github.com/caryyu/jellyfin-plugin-repo/raw/master/Jellyfin.Plugin.OpenDouban.1.0.14-beta.zip",
         "timestamp": "2022-05-29T02:19:25Z",
         "version": "1.0.14-beta"
+      },
+      {
+        "checksum": "81dbdd0962463a47395a3ffcc4ca72d0",
+        "changelog": "Merge branch '10.8.x-main' into caryyu-patch-2",
+        "targetAbi": "10.8.0.0",
+        "sourceUrl": "https://github.com/caryyu/jellyfin-plugin-repo/raw/master/Jellyfin.Plugin.OpenDouban.2.0.3-beta.zip",
+        "timestamp": "2022-05-29T02:26:10Z",
+        "version": "2.0.3-beta"
       }
     ]
   },
