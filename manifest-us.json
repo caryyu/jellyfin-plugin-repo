@@ -151,6 +151,14 @@
         "sourceUrl": "https://github.com/caryyu/jellyfin-plugin-repo/raw/master/Jellyfin.Plugin.OpenDouban.1.0.15-beta.zip",
         "timestamp": "2022-05-29T02:28:27Z",
         "version": "1.0.15-beta"
+      },
+      {
+        "checksum": "9f629f7f8c7388b8581160b811b7579d",
+        "changelog": "Fix unsupported-roles",
+        "targetAbi": "10.7.0.0",
+        "sourceUrl": "https://github.com/caryyu/jellyfin-plugin-repo/raw/master/Jellyfin.Plugin.OpenDouban.1.0.15-rc.zip",
+        "timestamp": "2022-05-29T04:50:23Z",
+        "version": "1.0.15-rc"
       }
     ]
   },
