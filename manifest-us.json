@@ -143,6 +143,14 @@
         "sourceUrl": "https://github.com/caryyu/jellyfin-plugin-repo/raw/master/Jellyfin.Plugin.OpenDouban.2.0.3.zip",
         "timestamp": "2022-05-29T06:56:06Z",
         "version": "2.0.3"
+      },
+      {
+        "checksum": "dff3ba0a48ed662ee2557b3e4436db58",
+        "changelog": "Support custom poster size (#42)",
+        "targetAbi": "10.7.0.0",
+        "sourceUrl": "https://github.com/caryyu/jellyfin-plugin-repo/raw/master/Jellyfin.Plugin.OpenDouban.1.1.0.zip",
+        "timestamp": "2022-06-16T04:45:22Z",
+        "version": "1.1.0"
       }
     ]
   },
